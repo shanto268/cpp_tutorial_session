@@ -1,0 +1,17 @@
+C++:
+> basic code
+> how to compile and run
+        > g++ name.cpp -o name
+        >./name
+> memory & pointers
+> structures & basics of data structures
+# need to individually study (if conditions and different loops)
+
+> OOP:
+    > concept
+    > code example
+$$ Essential Resource: https: //www.tutorialspoint.com/cplusplus/cpp_basic_syntax.htm (go over the entire thing)
+$$ OOP Principles Explained: https://www.youtube.com/watch?v=UI6lqHOVHic
+
+
+Questions

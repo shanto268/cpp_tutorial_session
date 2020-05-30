@@ -1,0 +1,18 @@
+A pointer is a variable whose value is the address of another variable. Like any variable or constant, you must declare a pointer before you can work with it. The general form of a pointer variable declaration is −
+    type *var-name;
+
+Address of operator (&)
+
+look at pointers_example.cpp
+
+
+Declaring pointers (we use a star) :
+
+int * number;
+char * character;
+double * decimals;
+
+Pointer Initialization:
+
+int myvar;
+int * myptr = &myvar;

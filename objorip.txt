@@ -1,0 +1,6 @@
+A class is used to specify the form of an object and it combines data representation and methods for manipulating that data into one neat package. The data and functions within a class are called members of the class.
+
+Main concepts:
+Inheritance
+Encapsulation
+Polymorphism
